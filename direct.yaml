@@ -1,4 +1,4 @@
-payload: 
+payload:
   # PT站点
   - DOMAIN-KEYWORD,announce
   - DOMAIN-KEYWORD,torrent
