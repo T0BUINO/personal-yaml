@@ -1,4 +1,4 @@
-# PT站点
+  # PT站点
   - DOMAIN-KEYWORD,announce,DIRECT
   - DOMAIN-KEYWORD,torrent,DIRECT
   - DOMAIN-KEYWORD,tracker,DIRECT
@@ -113,11 +113,11 @@
   - DOMAIN-SUFFIX,u2.dmhy.org,DIRECT
   - DOMAIN-SUFFIX,uhdbits.org,DIRECT
   - DOMAIN-SUFFIX,xauat6.edu.cn,DIRECT
-# PT 站点结束
+  # PT 站点结束
   
-# SPEEDTEST
+  # SPEEDTEST
   - DOMAIN-SUFFIX,fast.com,PROXY
   - DOMAIN-SUFFIX,ooklaserver.net,PROXY
   - DOMAIN-SUFFIX,speed.cloudflare.com,PROXY
   - DOMAIN-KEYWORD,speedtest,PROXY
-# END OF SPEEDTEST
+  # END OF SPEEDTEST
