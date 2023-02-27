@@ -115,3 +115,8 @@ payload:
   - DOMAIN-SUFFIX,uhdbits.org
   - DOMAIN-SUFFIX,xauat6.edu.cn
   # PT 站点结束
+  
+  # MY WEBDAV
+  - DOMAIN-SUFFIX,prox.jovialchap.com
+  - DOMAIN-SUFFIX,pxp.jovialchap.com
+  # END OF MY WEBDAV
